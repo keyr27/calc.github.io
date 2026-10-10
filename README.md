@@ -1,5 +1,5 @@
 # calc.github.io
-m-o-m budget projections
+MOM budget projections
 
 <!DOCTYPE html>
 <html lang="en">
