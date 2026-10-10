@@ -14,7 +14,7 @@ MOM budget projections
 
     <header class="mb-8 text-center">
         <h1 class="text-3xl font-bold text-slate-900">Personal Finance Utilities</h1>
-        <p class="text-slate-600 mt-1">Lightweight local calculators for budgeting and debt payoff.</p>
+        <p class="text-slate-600 mt-1">calculators for budgeting and debt payoff.</p>
     </header>
 
     <!-- CALCULATOR 1: BUDGET & SURPLUS PLANNER -->
